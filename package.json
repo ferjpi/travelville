@@ -1,0 +1,8 @@
+{
+  "name": "travelville",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/ferjpi/travelville.git",
+  "author": "ferjpi <fernandojpt1203@gmail.com>",
+  "license": "MIT"
+}
